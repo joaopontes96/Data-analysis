@@ -3,7 +3,7 @@
 
 In this project you have some commands used for:
 
-.Dump a column;
+.Remove a column;
 
 .Round the data;
 
